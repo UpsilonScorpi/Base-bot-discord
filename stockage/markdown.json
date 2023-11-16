@@ -1,0 +1,28 @@
+{
+  "fields": [
+    {
+      "name": "Formatage général",
+      "value": "`**...**`: **gras**\n\n`_..._`: _italique_\n`*...*`: *italique*\n\n`> ...`: citation\nLes blocs de citations peuvent être utilisé avec d'autre formatage\n\n`||...||`: ||spoiler, cache le texte||\n\n`__...__`: __souligné__\n\n`~~...~~`: ~~barré~~\n\n`[texte](lien)`: [hyperlien](https://discord.gg/)"
+    },
+    {
+      "name": "Timestamp",
+      "value": "`<t:`\n\nMettre par la suite le timestamp\n\nIl y a différente mise en forme:\n`:d>`: sous la forme 00/00/0000 -> <t:0:d>\n`:f>`: sous la forme 0 mmmmm 0000 00:00 -> <t:0:f>\n`:t>`: sous la forme 00:00 -> <t:0:t>\n`:D>`: sous la forme 0 mmmmm 0000 -> <t:0:D>\n`:F>`: sous la forme jjjjj 0 mmmmm 0000 00:00 -> <t:0:F>\n`:R>`: sous la forme (il y a / dans) 0 (minute / jours / mois / ans) -> <t:0:R>\n`:T>`: sous la forme 00:00:00 -> <t:0:T>"
+    },
+    {
+      "name": "Mentions",
+      "value": "Il y a plusieurs type de mentions:\n*Les '...' seront à remplacer par les identifiants*\n`<@...>`: mention d'un utilisateur (<@1174019726003929261>)\n`<@&...>`: mention d'un rôle (<@&1174343426007912512>)\n`<#...>`: mention d'un salon (<#1174330402249396278>)\n\nPour obtenir les identifiants, allez dans:\n> -> Paramètre utilisateur\n> -> Avancé\n> -> Mode développeur (l'activé)\n\nPuis clique droit -> copier l'identifiant"
+    },
+    {
+      "name": "Titre",
+      "value": "`# ...`: titre 1\n`## ...`: titre 2\n`### ...`: titre 3"
+    },
+    {
+      "name": "Liste",
+      "value": "Liste ordonné de base\n`1. ...\n2. ...\n3. ...`\n\nListe ordonné dans une liste\n`1. ...\n2. ...\n 1. ...\n 2. ...\n3. ...`\n\nListe non ordonné: Il y a plusieurs façon:\n`- ...`\n`* ...`\n\nListe dans une liste\n`- ...\n- ...\n - ...\n - ...\n- ...`"
+    },
+    {
+      "name": "Blocs de code",
+      "value": "Il y a plusieurs façon:\nBlocs de code de base: ``᲼`...`᲼``\nBlocs de code plein: ``᲼```...```᲼``\n\nIl y a la possibilité d'ajouter de la couleurs grâçe à ce [site](https://rebane2001.com/discord-colored-text-generator/)"
+    }
+  ]
+}

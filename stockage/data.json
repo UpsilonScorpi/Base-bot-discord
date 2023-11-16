@@ -1,0 +1,14 @@
+{
+    "salon_log": "L'ID_DU_SALON_DE_LOG",
+    "time_zone": "Europe/Paris",
+
+    "richpresence": {
+        "activity": [],
+        "activitype": [],
+        "status": []
+    },
+
+    "erreur": {
+        "bot_timestamp_date": "⚠️ Erreur: Date invalide, format requis `1970-01-01T01:00`"
+    }
+}
