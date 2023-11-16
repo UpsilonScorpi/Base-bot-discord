@@ -10,7 +10,7 @@
     },
     {
       "name": "Mentions",
-      "value": "Il y a plusieurs type de mentions:\n*Les '...' seront à remplacer par les identifiants*\n`<@...>`: mention d'un utilisateur (<@1174019726003929261>)\n`<@&...>`: mention d'un rôle (<@&1174343426007912512>)\n`<#...>`: mention d'un salon (<#1174330402249396278>)\n\nPour obtenir les identifiants, allez dans:\n> -> Paramètre utilisateur\n> -> Avancé\n> -> Mode développeur (l'activé)\n\nPuis clique droit -> copier l'identifiant"
+      "value": "Il y a plusieurs type de mentions:\n*Les '...' seront à remplacer par les identifiants*\n`<@...>`: mention d'un utilisateur\n`<@&...>`: mention d'un rôle\n`<#...>`: mention d'un salon\n\nPour obtenir les identifiants, allez dans:\n> -> Paramètre utilisateur\n> -> Avancé\n> -> Mode développeur (l'activé)\n\nPuis clique droit -> copier l'identifiant"
     },
     {
       "name": "Titre",
