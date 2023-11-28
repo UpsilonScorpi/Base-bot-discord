@@ -5,6 +5,6 @@ module.exports = {
 		.setName('ping')
 		.setDescription('Renvoie la latence du bot'),
 	async execute(interaction) {
-        await interaction.reply({content:`🏓Ping de ${Date.nowd() - interaction.createdTimestamp}ms.`, ephemeral:true})
+        await interaction.reply({content:`🏓Ping de ${Date.now() - interaction.createdTimestamp}ms.`, ephemeral:true})
 	},
 }
